@@ -1,0 +1,9 @@
+[submodule "MegaHack_backend"]
+	path = MegaHack_backend
+	url = https://github.com/PauloE314/MegaHack_backend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/PauloE314/MegaHack_backend
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/petruspierre/MegaHack_Mobile
