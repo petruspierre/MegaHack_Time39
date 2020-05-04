@@ -1,1 +1,1 @@
-"# MegaHack_Time39" 
+# MegaHack_Time39
