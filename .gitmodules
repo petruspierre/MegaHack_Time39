@@ -7,3 +7,6 @@
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/petruspierre/MegaHack_Mobile
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/RaquelPM/MegaHack_frontend
