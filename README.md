@@ -34,22 +34,40 @@
 
 First of all you need to setup the [backend](https://github.com/PauloE314/MegaHack_backend/tree/611fe72d8eb181bcf37dbb605fa3d91f2289498f) server
 
-Then make sure you have **NodeJS** and **Expo** installed in your machine
+### Mobile setup
+Make sure you have **NodeJS** and **Expo** installed in your machine
 
-so, clone this repo
+Clone the mobile repo
 ```
 $ git clone https://github.com/petruspierre/checaaqui-mobile/
 ```
 
-install all dependences
+Install all dependences
 ```
 $ npm install
 ```
 > If you want to use yarn, delete "package-lock.json" and run ```yarn``` in your terminal
 
-and run the project
+Run the project
 ```
 $ expo start
+```
+
+### Frontend setup
+
+Clone the frontend setup
+```
+$ git clone https://github.com/RaquelPM/MegaHack_frontend.git
+```
+
+Install all dependences
+```
+$ npm install
+```
+
+Run the project
+```
+$ npm run serve
 ```
 
 ## Acknowledgments
