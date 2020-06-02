@@ -6,6 +6,8 @@
 
 ### ChecaAqui is a gamified platform to unify user-created product ratings helping other people and the companies.
 
+> [Pitch](https://www.youtube.com/watch?v=pHUXVQcMKTs)
+
 <p align="center">
   <img height=350 src="https://i.ibb.co/th1XmRC/Screen-Recording-20200601-160024-1.gif">
   <img height=350 src="https://i.ibb.co/JKm6cTt/Screen-Recording-20200601-155710-1.gif">
